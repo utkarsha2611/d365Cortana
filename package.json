@@ -1,0 +1,31 @@
+{
+  "name": "botbuilder-sample-rollerskill",
+  "version": "1.0.0",
+  "description": "Bot Builder Sample - Roller Skill",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Microsoft Corp.",
+  "license": "MIT",
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots",
+    "botbuilder-samples"
+  ],
+  "bugs": {
+    "url": "https://github.com/Microsoft/BotBuilder-Samples/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Microsoft/BotBuilder-Samples.git"
+  },
+  "dependencies": {
+    "azure-storage": "^2.8.1",
+    "botbuilder": "^3.13.1",
+    "dotenv-extended": "^2.0.0",
+    "needle": "^2.2.0",
+    "node-uuid": "^1.4.8",
+    "restify": "^4.3.0"
+  }
+}
